@@ -1,7 +1,8 @@
-### Hi there 👋, my name is ([**Nastaran**](http://naarestan.com))
-#### I am a Junior Data Analyst
+
 ![I am a Junior Data Analyst](https://github.com/Naarestan/Naarestan/blob/main/Unknown)
 
+### Hi there 👋, my name is ([**Nastaran**](http://naarestan.com))
+#### I am a Junior Data Analyst
 
 Skills: SQL / Python / Tableau / MS Excel VBA
 
