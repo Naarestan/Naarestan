@@ -4,7 +4,7 @@
 ### Hi there 👋, my name is ([**Nastaran**](http://naarestan.com))
 #### I am a Data Analyst
 
-Skills: SQL / Python / Tableau / MS Excel
+Skills: **SQL** / **Tableau** / **MS Excel** / **Python**
 
 - 👯 I’m looking to collaborate on Data Analysis projects 
 - 📫 How to reach me: me@naarestan.com 
