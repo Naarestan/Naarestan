@@ -14,16 +14,3 @@ Skills: **SQL** / **Tableau** / **MS Excel** / **Python**
 
 
 
-
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naarestan&show_icons=true&theme=gruvbox&hide=issues,contribs)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naarestan&hide=Shell,Ruby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
